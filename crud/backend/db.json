@@ -1,14 +1,39 @@
 {
-    "user": [
-        {
-            "id": 1,
-            "name": "Arthur Oliveira",
-            "email": "aoliveira@gmail.com"
-        },
-        {
-            "id": 2,
-            "name": "Maria Julia da Silva",
-            "email": "njds@empresa.com"
-        }
-    ]
+  "users": [
+    {
+      "id": 1,
+      "name": "Arthur Oliveira",
+      "email": "aoliveira@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Maria Julia da Silva",
+      "email": "njds@empresa.com"
+    },
+    {
+      "name": "Ana Shoucker",
+      "email": "Ana@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Ana Shoucker",
+      "email": "Ana@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Ana Shoucker",
+      "email": "Ana@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Ana Shoucker",
+      "email": "Ana@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "teste",
+      "email": "teste",
+      "id": 7
+    }
+  ]
 }
